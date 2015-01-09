@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dkpro_ng/!svn/ver/5778/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers
+END
+StudentPdtbAndDimLexFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/StudentPdtbAndDimLexFeatureExtractor.java
+END
+StudentDisMarkPairwiseFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/StudentDisMarkPairwiseFeatureExtractor.java
+END
+GeneralDiscourseAnalysisFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/GeneralDiscourseAnalysisFeatureExtractor.java
+END
+StudentDiscourseAnalysisFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/StudentDiscourseAnalysisFeatureExtractor.java
+END
+TeacherPdtbAndDimLexFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/TeacherPdtbAndDimLexFeatureExtractor.java
+END
+TeacherDisMarkPairwiseFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/TeacherDisMarkPairwiseFeatureExtractor.java
+END
+GeneralPdtbAndDimLexFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/GeneralPdtbAndDimLexFeatureExtractor.java
+END
+TeacherDiscourseAnalysisFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/TeacherDiscourseAnalysisFeatureExtractor.java
+END
+DiscourseMarkersUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/dkpro_ng/!svn/ver/6019/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/discourseMarkers/DiscourseMarkersUtils.java
+END

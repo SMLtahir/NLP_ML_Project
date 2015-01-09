@@ -1,0 +1,49 @@
+END
+SpeakingRateFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/SpeakingRateFeatureExtractor.java
+END
+TypeTokenRatioFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/TypeTokenRatioFeatureExtractor.java
+END
+KeywordsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/KeywordsFeatureExtractor.java
+END
+T_NGramFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/T_NGramFeatureExtractor.java
+END
+WordSyllablesFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/dkpro_ng/!svn/ver/6199/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/WordSyllablesFeatureExtractor.java
+END
+S_NGramFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/S_NGramFeatureExtractor.java
+END
+WordSyllablesCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/dkpro_ng/!svn/ver/6006/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/WordSyllablesCounter.java
+END
+NGramFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/wordFrequency/NGramFeatureExtractor.java
+END

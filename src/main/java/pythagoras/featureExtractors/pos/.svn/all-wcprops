@@ -1,0 +1,121 @@
+END
+NumbersBooleanFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/NumbersBooleanFeatureExtractor.java
+END
+NounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/NounsFeatureExtractor.java
+END
+S_PronounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/S_PronounsFeatureExtractor.java
+END
+T_PronounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/T_PronounsFeatureExtractor.java
+END
+S_AdjectivesFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/S_AdjectivesFeatureExtractor.java
+END
+T_AdjectivesFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/T_AdjectivesFeatureExtractor.java
+END
+NumbersQuantityFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/NumbersQuantityFeatureExtractor.java
+END
+VerbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/VerbsFeatureExtractor.java
+END
+PronounRatioExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/PronounRatioExtractor.java
+END
+AdverbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/AdverbsFeatureExtractor.java
+END
+T_NounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/T_NounsFeatureExtractor.java
+END
+S_NounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/S_NounsFeatureExtractor.java
+END
+GermanModalVerbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/GermanModalVerbsFeatureExtractor.java
+END
+PronounsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/PronounsFeatureExtractor.java
+END
+AdjectivesFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/AdjectivesFeatureExtractor.java
+END
+VerbRatioExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/VerbRatioExtractor.java
+END
+T_VerbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/T_VerbsFeatureExtractor.java
+END
+S_VerbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/S_VerbsFeatureExtractor.java
+END
+T_AdverbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/T_AdverbsFeatureExtractor.java
+END
+S_AdverbsFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/pos/S_AdverbsFeatureExtractor.java
+END

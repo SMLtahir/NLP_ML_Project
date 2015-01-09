@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/dkpro_ng/!svn/ver/5774/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing
+END
+LessonRatingPrepareResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/LessonRatingPrepareResource.java
+END
+praatTsvMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/dkpro_ng/!svn/ver/6009/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/praatTsvMaker.java
+END
+PrepareOverviewCsvFilesVbMacro.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/dkpro_ng/!svn/ver/6009/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/PrepareOverviewCsvFilesVbMacro.java
+END
+ConAnnoLexPrepareResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/dkpro_ng/!svn/ver/6009/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/ConAnnoLexPrepareResource.java
+END
+jwktlPreprocessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/dkpro_ng/!svn/ver/6009/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/jwktlPreprocessor.java
+END
+docxToTsvConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dkpro_ng/!svn/ver/6009/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/docxToTsvConverter.java
+END
+StatSignTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/preprocessing/StatSignTest.java
+END

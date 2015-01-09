@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/dkpro_ng/!svn/ver/5984/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors
+END
+LeaveOneClassroomOutClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/dkpro_ng/!svn/ver/6199/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/LeaveOneClassroomOutClassification.java
+END
+TrainOnOneTestOnOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/TrainOnOneTestOnOther.java
+END
+GenerateBestConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/dkpro_ng/!svn/ver/6010/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/GenerateBestConfiguration.java
+END
+PrepareAblativeRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/dkpro_ng/!svn/ver/6199/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/PrepareAblativeRun.java
+END
+DistributedCorpusProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/DistributedCorpusProcessor.java
+END
+RankConfigs.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/dkpro_ng/!svn/ver/6010/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/RankConfigs.java
+END
+WekaMainProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/WekaMainProcessor.java
+END
+ListMisclassifiedInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/wekaProcessors/ListMisclassifiedInstances.java
+END

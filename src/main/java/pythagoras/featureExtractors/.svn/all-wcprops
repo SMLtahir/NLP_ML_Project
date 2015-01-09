@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/dkpro_ng/!svn/ver/5760/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors
+END
+PastVsFutureFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/dkpro_ng/!svn/ver/5995/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/PastVsFutureFeatureExtractor.java
+END
+PolitenessExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/PolitenessExtractor.java
+END
+ContextualityMeasureFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/ContextualityMeasureFeatureExtractor.java
+END
+RepetitionFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/RepetitionFeatureExtractor.java
+END
+PhrasePatternExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/PhrasePatternExtractor.java
+END
+PythagorasAnnotationFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/PythagorasAnnotationFeatureExtractor.java
+END
+PluralRatioFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/dkpro_ng/!svn/ver/5995/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/PluralRatioFeatureExtractor.java
+END
+SuperlativeRatioFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/dkpro_ng/!svn/ver/5995/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/SuperlativeRatioFeatureExtractor.java
+END
+WordSyllableCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/dkpro_ng/!svn/ver/5995/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/WordSyllableCounter.java
+END
+InformativenessFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/dkpro_ng/!svn/ver/6194/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main/java/pythagoras/featureExtractors/InformativenessFeatureExtractor.java
+END
