@@ -1,41 +1,0 @@
-10
-
-dir
-5666
-https://scruffy.ukp.informatik.tu-darmstadt.de/svn/dkpro_ng/dkpro/tc_experiments/de.tudarmstadt.ukp.dkpro.tc.experiments.pythagoras/src/main
-https://scruffy.ukp.informatik.tu-darmstadt.de/svn/dkpro_ng
-
-
-
-2014-02-17T12:10:48.989252Z
-5577
-sousa@UKP.INFORMATIK.TU-DARMSTADT.DE
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-incomplete
-804ed544-40b9-4ff6-a808-db6021628d41
-
-groovy
-dir
-
-
-
-delete
-
-java
-dir
-
-resources
-dir
-
